@@ -1,12 +1,12 @@
 ### Olá pessoal! 👋
 
-Sou da área de QA
+Sou Analista de QA!
 
-- 🔭 Atualmente estou trabalhando com Testes Manuais e Automatizados
-- 🌱 Estou estudando sobre ferramentas de teste automatizados e metodologias ágeis
-- 💬 Possuo conhecimento em testes manuais, documentação técnica, e estou aprimorando os conhecimentos em testes automatizados
+- 🔭 Atualmente estou trabalhando com Testes Manuais e Automatizados;
+- 🌱 Estou estudando sobre ferramentas de teste automatizados e metodologias ágeis;
+- 💬 Possuo conhecimento em testes manuais e em testes automatizados;
 - 📫 https://www.linkedin.com/in/lilianeblima
-- :books: Estou no último semestre de Análise e Desenvolvimento de Sistemas e pretendo seguir uma pós graduação na Área de Engenharia de Software com Enfase em Testes
+- :books: Graduada em Análise e Desenvolvimento de Sistemas e atualmente cursando pós graduação em Engenharia De Software Com Ênfase Em Qualidade E Teste De Software;
 - ⚡ Hobbys: Assistir Séries, tocar violão, leitura.
 <!--
 **liliane-lima/liliane-lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
